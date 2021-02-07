@@ -6,7 +6,7 @@
 
 **示例1:**
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/21_merge_lists_1.jpg" alt="21_merge_lists_1" style="zoom:50%;" />
+<img src="./imgs/21_merge_lists_1.jpg" alt="21_merge_lists_1" style="zoom:50%;" />
 
 ```shell
 输入：l1 = [1,2,4], l2 = [1,3,4]
@@ -43,21 +43,21 @@
 - 返回值：每一层调用都返回排序好的链表头。
 - 如何递归：我们判断 `l1` 和 `l2` 头节点哪个更小，然后较小的节点的 `next` 指针指向**其余节点的合并结果。（调用递归）**
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/21_merge_lists_py_1.jpg" alt="21_merge_lists_py_1" style="zoom:50%;" />
+<img src="./imgs/21_merge_lists_py_1.jpg" alt="21_merge_lists_py_1" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/21_merge_lists_py_2.jpg" alt="21_merge_lists_py_2" style="zoom:50%;" />
+<img src="./imgs/21_merge_lists_py_2.jpg" alt="21_merge_lists_py_2" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/21_merge_lists_py_3.jpg" alt="21_merge_lists_py_3" style="zoom:50%;" />
+<img src="./imgs/21_merge_lists_py_3.jpg" alt="21_merge_lists_py_3" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/21_merge_lists_py_4.jpg" alt="21_merge_lists_py_4" style="zoom:50%;" />
+<img src="./imgs/21_merge_lists_py_4.jpg" alt="21_merge_lists_py_4" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/21_merge_lists_py_5.jpg" alt="21_merge_lists_py_5" style="zoom:50%;" />
+<img src="./imgs/21_merge_lists_py_5.jpg" alt="21_merge_lists_py_5" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/21_merge_lists_py_6.jpg" alt="21_merge_lists_py_6" style="zoom:50%;" />
+<img src="./imgs/21_merge_lists_py_6.jpg" alt="21_merge_lists_py_6" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/21_merge_lists_py_7.jpg" alt="21_merge_lists_py_7" style="zoom:50%;" />
+<img src="./imgs/21_merge_lists_py_7.jpg" alt="21_merge_lists_py_7" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/21_merge_lists_py_8.jpg" alt="21_merge_lists_py_8" style="zoom:50%;" />
+<img src="./imgs/21_merge_lists_py_8.jpg" alt="21_merge_lists_py_8" style="zoom:50%;" />
 
 ### Python 题解
 

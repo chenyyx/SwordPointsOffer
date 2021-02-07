@@ -8,7 +8,7 @@
 
 **示例1:**
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/11_container_water_1.jpg" alt="11_container_water_1" style="zoom:50%;" />
+<img src="./imgs/11_container_water_1.jpg" alt="11_container_water_1" style="zoom:50%;" />
 
 ```shell
 输入：[1,8,6,2,5,4,8,3,7]
@@ -68,21 +68,21 @@
       - 底边宽度：相比 $S(i, j)$ 更短。
     - 因此**所有消去的状态的面积都**  $<S(i, j)$ 。通俗的讲，我们每次向内移动短板，所有的消去状态都**不会导致丢失面积最大值** 。
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/11_container_water_py_1.jpg" alt="11_container_water_py_1" style="zoom:50%;" />
+<img src="./imgs/11_container_water_py_1.jpg" alt="11_container_water_py_1" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/11_container_water_py_2.jpg" alt="11_container_water_py_2" style="zoom:50%;" />
+<img src="./imgs/11_container_water_py_2.jpg" alt="11_container_water_py_2" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/11_container_water_py_3.jpg" alt="11_container_water_py_3" style="zoom:50%;" />
+<img src="./imgs/11_container_water_py_3.jpg" alt="11_container_water_py_3" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/11_container_water_py_4.jpg" alt="11_container_water_py_4" style="zoom:50%;" />
+<img src="./imgs/11_container_water_py_4.jpg" alt="11_container_water_py_4" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/11_container_water_py_5.jpg" alt="11_container_water_py_5" style="zoom:50%;" />
+<img src="./imgs/11_container_water_py_5.jpg" alt="11_container_water_py_5" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/11_container_water_py_6.jpg" alt="11_container_water_py_6" style="zoom:50%;" />
+<img src="./imgs/11_container_water_py_6.jpg" alt="11_container_water_py_6" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/11_container_water_py_7.jpg" alt="11_container_water_py_7" style="zoom:50%;" />
+<img src="./imgs/11_container_water_py_7.jpg" alt="11_container_water_py_7" style="zoom:50%;" />
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/11_container_water_py_8.jpg" alt="11_container_water_py_8" style="zoom:50%;" />
+<img src="./imgs/11_container_water_py_8.jpg" alt="11_container_water_py_8" style="zoom:50%;" />
 
 ### Python 题解
 

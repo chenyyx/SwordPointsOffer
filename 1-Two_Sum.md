@@ -69,7 +69,7 @@ def twoSum(nums, target):
 
 LeetCode 执行结果：
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/1_two_sum_py_1.jpg" alt="1_two_sum_py_1" style="zoom:80%;" />
+<img src="./imgs/1_two_sum_py_1.jpg" alt="1_two_sum_py_1" style="zoom:80%;" />
 
 运行通过，但是速度比较慢。继续想一些更高级的解决办法。
 
@@ -91,7 +91,7 @@ class Solution:
 
 LeetCode 执行结果：
 
-<img src="/Users/chenyao/Desktop/复习/ml/SwordPointsOffer/imgs/1_two_sum_py_2.jpg" alt="1_two_sum_py_2" style="zoom:50%;" />
+<img src="./imgs/1_two_sum_py_2.jpg" alt="1_two_sum_py_2" style="zoom:50%;" />
 
 ### C++ 题解
 
